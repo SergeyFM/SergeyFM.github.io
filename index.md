@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+## ☀️ Hi there! My name is Sergey Svistunov. 
 
-You can use the [editor on GitHub](https://github.com/SergeyFM/SergeyFM.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+👔 I’m an experienced Presales engineer. Started as a Sysadmin, then worked as a Project manager, Business Analyst, and continued as a Presales - POS terminals, payment software and related services. 
+<br>
+<br>
+💻 All things aside, I decided around 2020 to become a professional software developer. I started with CodeWars achieving 3kyu level in **C++** and **Kotlin**: <img src="https://www.codewars.com/users/SergeyFM/badges/large?theme=light"> <br> <br>
+The world of programming isn't an uncharted territory for me because I’ve been in and out of coding since my student days. Learning to program is hard, so I don’t get discouraged when I'm making mistakes at first. I’m diligently acquiring Kotlin programming language with a focus on Android and backend development. <br>
+## I write code every day!
+<a href="https://kotlinlang.org/" target="_blank">
+<img src="small_kotlin.png" height=57px>
+</a> 
+<br> <br>
+💥 I’m very excited about turning my hobby into a job. My only regret is that I didn’t do it sooner! <br>
+I’m happy to be part of the #GitHub community and have the chance to share my ideas and learn from you all! <br> <br>
+<img src="panorama.jpg" height=50px width=100%>
+🏃 Besides programming, my hobbies include marathon running, photography and learning human languages - so far I can speak English, German and my native language Russian.
+<br><br> 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SergeyFM/SergeyFM.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Please feel free to let me know if anything. <br>
+<a href="https://www.facebook.com/svistunovsergey" target="_blank">
+   <img src="my_fb_icon.png" height=57px> 
+</a>

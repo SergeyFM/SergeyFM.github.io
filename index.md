@@ -16,11 +16,10 @@ The world of programming isn't an uncharted territory for me because I’ve been
 I’m happy to be part of the #GitHub community and have the chance to share my ideas and learn from you all! 
 <br> <br>
 
-<img src="panorama.jpg" width=100%>
-
+![](panorama.jpg)
 <br>
 🏃 Besides programming, my hobbies include marathon running, photography and learning human languages - so far I can speak English, German and my native language Russian.
-<br><br> 
+<br>
 
 Please feel free to let me know if anything. <br>
 <a href="https://www.facebook.com/svistunovsergey" target="_blank">

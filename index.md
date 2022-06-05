@@ -4,7 +4,8 @@
 👔 I work in IT Presales. I started as a Sysadmin, then worked as a Project manager, Business Analyst, and continued as a Presale - POS terminals, payment software and related services. I've been researching, building and selling IT solutions all my life!
 <br>
 <br>
-💻 After years of working in many very different companies and environments, around 2020 I decided to slide to more technical side, I began my journey towards a software developer role. I started with CodeWars achieving 3kyu level in **C++** and **Kotlin**: <img src="https://www.codewars.com/users/SergeyFM/badges/large?theme=light"> <br> And now I'm applying this knowledge to the projects you'll find here on GitHub.
+💻 After years of working in so many very different companies and environments, around 2020 I decided to move to a more techical side of things - I've always wanted to actually create something, to see tangible results of my work. A software developer role ticks all the boxes for me.
+<br> I started with CodeWars achieving 3kyu level in **C++** and **Kotlin**: <img src="https://www.codewars.com/users/SergeyFM/badges/large?theme=light"> <br> And now I'm applying this knowledge to the projects you'll find here on GitHub.
 <br><br>
 There are several projects that I've done. Here are public ones on GitHub:
 * Console application that imports word definition from LingQ portal
